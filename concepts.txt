@@ -1,0 +1,9 @@
+1. Context Path
+2. Annotation
+3. Maven
+4. Inversion of Control (IOC)
+5. Bean
+6. @RestController , @SpringBootApplication, @EnableAutoConfiguration @Configuration
+7. Field Dependency Injection - @autowired
+8. @RequestMapping
+9. @RequestBody
