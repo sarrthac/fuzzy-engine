@@ -7,3 +7,5 @@
 7. Field Dependency Injection - @autowired
 8. @RequestMapping
 9. @RequestBody
+10. @Document,@Id
+11. ResponceEntity <?>
