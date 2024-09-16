@@ -10,4 +10,4 @@
 10. @Document,@Id
 11. ResponceEntity <?>
 12.Lombok - Plugin
-13.@Indexed @DBRef
+13.@Indexed @DBRef @Transactional
